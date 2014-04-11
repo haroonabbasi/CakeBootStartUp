@@ -1,0 +1,9 @@
+{
+	"name": "Tagai",
+    "config": {
+        "vendor-dir": "Vendor"
+    },
+    "require": {
+		"ccampbell/chromephp": "*"
+    }
+}
